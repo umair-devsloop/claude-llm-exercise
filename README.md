@@ -9,7 +9,7 @@ token usage, latency and cost.
 
 ```bash
 npm install
-cp .env.example .env   # then put your API key in .env
+cp .env   # then put your API key in .env
 ```
 
 `.env` settings:
