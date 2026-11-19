@@ -1,0 +1,22 @@
+PIXELFORGE STUDIO llc
+Unit 4b, 221 Harbor Rd · Portland OR  ·  tel 555-0142
+-------------------------------------------------------------
+INVOICE     no.  INV-2026-0419          (yr PO ref: 7781)
+Issued:  3rd Nov '26
+Terms: Net 30
+
+Bill to ->   Greenway Bikes Co.
+             attn: accounts payable
+
+  item                         qty      rate        amt
+  Logo design (3 concepts)      1       $450.00    $450.00
+  Landing page build            1     $1,200.00  $1,200.00
+  Hosting  - monthly           12        $15.00    $180.00
+                                         ------------------
+                                  Sub total      $1,830.00
+                                  Sales tax 8%     $146.40
+                                  Discount           none
+                                  TOTAL DUE   USD $1,976.40
+
+pls pay by bank transfer, ref the invoice # not the PO!!
+late fee 1.5%/mo after due date. thx - Dana

@@ -1,0 +1,9 @@
+{
+  "sender_name": "Sarah Khan",
+  "sender_email": "s.khan@brightleaf-organics.example",
+  "company": "BrightLeaf Organics",
+  "request_type": "quote_request",
+  "deadline": "2026-11-28",
+  "budget_amount": 5000,
+  "currency": "USD"
+}

@@ -1,0 +1,11 @@
+{
+  "invoice_number": "INV-2026-0419",
+  "invoice_date": "2026-11-03",
+  "due_date": "2026-12-03",
+  "vendor_name": "PixelForge Studio LLC",
+  "customer_name": "Greenway Bikes Co.",
+  "currency": "USD",
+  "subtotal": 1830,
+  "tax_amount": 146.4,
+  "total": 1976.4
+}
